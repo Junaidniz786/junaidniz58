@@ -12,8 +12,8 @@ log = logging.getLogger('werkzeug')
 log.setLevel(logging.ERROR)
 
 CREDENTIALS = {
-    "username": "Junaidali786",
-    "password": "Junaidali786"
+    "username": "Jund6",
+    "password": "Junai6"
 }
 
 BASE_URL = "http://51.89.99.105/NumberPanel"
