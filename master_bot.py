@@ -5,7 +5,7 @@ import string
 import json
 import requests
 
-BOT_TOKEN = "8569662345:AAGdjpXHCKq8lYDc9DVQplDRk5bRosN7nwg"
+BOT_TOKEN = "856968lYDc9DVQplDRk5bRosN7nwg"
 ADMIN_IDS = [7011937754]   # 👈 MASTER ADMIN ID
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
